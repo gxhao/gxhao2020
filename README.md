@@ -3,7 +3,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gxhao2020&layout=compact)
 
 - 🔭 I’m currently working on epoint
-- 🌱 I’m currently learning Java DevOps node.js
+- 🌱 I’m currently learning Java DevOps node.js English
 - 👯 I’m looking to collaborate on some interresting projects
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about Linux Ubuntu 
