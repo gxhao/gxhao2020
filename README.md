@@ -2,10 +2,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=gxhao2020&show_icons=true&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gxhao2020&layout=compact)
 
-
-
-**gxhao2020/gxhao2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
